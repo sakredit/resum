@@ -1,0 +1,19 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  <your title>: <Sasha>
+  Site:resum
+  Twitter:nema
+  Location:Ukraine
+
+/* THANKS */
+  Names (& URL):HabraHabr
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
+
+
